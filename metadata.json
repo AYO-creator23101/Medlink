@@ -1,0 +1,7 @@
+{
+  "name": "Medlink",
+  "description": "A health technology platform to connect patients, healthcare providers, and services. The MVP allows users to find doctors, use an AI symptom checker, and manage medical records.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
